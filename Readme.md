@@ -4,7 +4,7 @@
 
 This repository contains code examples and instructions on using YouTube Analytics and Reporting APIs to unlock insights from your YouTube channel data. The examples demonstrate setting up API credentials using a service account and accessing key metrics like video views and custom reports.
 
-For additional insights and practical use cases, please see [this article on YouTube Analytics and Reporting API Guide]().
+For additional insights and practical use cases, please see [this article on YouTube Analytics and Reporting API Guide](https://www.devrelsquad.com/post/unlocking-insights-with-youtube-analytics-and-reporting-apis-a-complete-guide).
 
 ## Setup
 
@@ -48,5 +48,5 @@ Run the script to create and download custom reports:
 ```bash
 python report.py
 ```
-If you would like more information on generating custom reports, please refer to the practical guide in [this article]().
+If you would like more information on generating custom reports, please refer to the practical guide in [this article](https://www.devrelsquad.com/post/unlocking-insights-with-youtube-analytics-and-reporting-apis-a-complete-guide).
 
